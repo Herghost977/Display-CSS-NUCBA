@@ -1,0 +1,16 @@
+h1 {
+    display: inline-block;
+}
+p{
+    display: inline-block;
+}
+
+.Elementos-en-linea {
+    display: inline-block;
+}
+h4{
+    display: none;
+}
+h5{
+    display: inline;
+}
